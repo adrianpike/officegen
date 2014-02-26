@@ -40,7 +40,7 @@
 	},
 	"dependencies": {
 		"setimmediate": ">= 1.0.1",
-		"archiver": ">= 0.4.4",
+		"archiver": "0.4.11111111110",
 		"fast-image-size": "*"
 	},
     "author": {
