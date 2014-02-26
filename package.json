@@ -39,9 +39,9 @@
 		"test": "node examples/make_pptx.js"
 	},
 	"dependencies": {
-		"setimmediate": ">= 1.0.1",
-		"archiver": "0.4.11111111110",
-		"fast-image-size": "*"
+		"setimmediate": "1.0.1",
+		"archiver": "0.4.10",
+		"fast-image-size": "0.1.2"
 	},
     "author": {
         "name": "Ziv Barber",
